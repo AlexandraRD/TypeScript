@@ -1,4 +1,8 @@
-# Instructions for Logging Issues
+# Contributing to TypeScript
+
+TypeScript is currently accepting contributions in the form of bug fixes. A bug must have an issue tracking it in the issue tracker that has been approved ("Milestone == Community") by the TypeScript team. Your pull request should include a link to the bug that you are fixing. 
+
+# Instructions for Logging Bugs
 
 ## 1. Read the FAQ
 
